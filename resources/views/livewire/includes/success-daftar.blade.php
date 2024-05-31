@@ -7,8 +7,14 @@
             </div>
             <div class="card">
                 <div class="card-body pb-0 mb-4">
-                    <h5 class="card-title">Anda telah berhasil daftar menjadi calon santri IDN,
-                        berikut detail data pendaftaran anda :</h5>
+                    <div class="row">
+                        <h5 class="mt-4 fs-5"><strong>
+                                Selamat pendaftaran berhasil
+                            </strong>
+                        </h5>
+                        <h6 class="mb-4 mt-2">Anda telah berhasil daftar menjadi calon santri IDN,
+                            berikut detail data pendaftaran anda :</h6>
+                    </div>
 
                     <div class="row mb-2">
                         <h6 class="col-lg-3 col-md-4 label">Nama</h6>
